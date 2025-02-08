@@ -77,12 +77,14 @@ Applied hyperparameter tuning and cross-validation to optimize models.
 
 ## 📊 Results
 
-| Model  | Best Accuracy | Best F1 Score  |
-| Classical ML (SGD)  | ~0.12 | ~0.1  |
-| CNN + ML  | ~0.75| ~0.76  |
-| CNN  | ~0.97 | ~0.97 |
-| Transfer Learning (ResNet50)  | ~0.96 | ~0.96 |
-| Ensemble Learning  | ~0.725 | ~0.2 |
+| Model                          | Best Accuracy | Best F1 Score |
+|---------------------------------|---------------|---------------|
+| Classical ML (SGD)             | ~0.12         | ~0.1          |
+| CNN + ML                        | ~0.75         | ~0.76         |
+| CNN                             | ~0.97         | ~0.97         |
+| Transfer Learning (ResNet50)    | ~0.96         | ~0.96         |
+| Ensemble Learning               | ~0.725        | ~0.2          |
+
 
 ## 🔑 Key Findings
 
