@@ -9,7 +9,7 @@ This project is conducted as part of the TKPR221 Fundamentals of Machine Learnin
 We've worked on this project as a group: <br>
 <a href="https://github.com/muguryalcin">Mustafa Uğur Yalçın</a>,<br> 
 <a href="https://github.com/MelihCK">Melih Can Kanmaz</a>, <br>
-<a href="">Refik Toprak Telli</a><br>
+<a href="https://github.com/topraktoprak1">Refik Toprak Telli</a><br>
 
 ## 🗂️ Dataset
 
